@@ -10,5 +10,7 @@ package dataaccess;
  * @author Arjun
  */
 public class UserDB {
-    
+    public List<User> getAll() throws Exception{
+        
+    }
 }
